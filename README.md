@@ -2,6 +2,8 @@
 
 A Python GUI application that converts hexadecimal binary data to integers or floating point numbers with support for both little-endian and big-endian byte order.
 
+![Screenshot](screenshots/main_ui.png)
+
 ## Features
 
 - **User-friendly GUI**: Clean interface with text input and dropdown selection
